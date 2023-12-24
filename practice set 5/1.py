@@ -1,0 +1,1 @@
+print("it's raining \nand i will enjoy the rain")
